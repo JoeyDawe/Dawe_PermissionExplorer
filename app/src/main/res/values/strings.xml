@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">permissionexplorer</string>
+    <string name="get_location">Get Location</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="access_storage">Access Storage</string>
+    <string name="navigate_to_second_screen">Navigate to Second Screen</string>
+</resources>
